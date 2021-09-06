@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 new test fi
-=======
-new test 
->>>>>>> 4633b587f986891db52a9802bc700cf4c8aae1ed
+
+
+
